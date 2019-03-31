@@ -1,3 +1,3 @@
-Curriculum Vitae Initial Commit
+Curriculum Vitae Project
 
-The following is an initial commit of a cv. 
+This website is a cirriculum vitae project that I am doing to help me better understand css, html and eventually javascript. 
