@@ -1,7 +1,7 @@
 /*Overall Background Color template in all form pages*/
 
 body {
-    background-color: #cfe0e8;
+    background-color: #7fe7cc;
 }
 
 
@@ -112,9 +112,30 @@ hr {
 body {
     margin: 0;
     padding: 0;
-    background: #dedede;
+    background: #fffeec;
 }
 
+
+/*Table containers*/
+table, td, th {
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 15px;
+}
+
+tr:hover {background-color:#f5f5f5;}
+
+/*About Me Section */
+.center {
+  text-align: center;
+}
 
 /*Social Media Code with hover elements. Formatting is off, will need to adjust! */
 
